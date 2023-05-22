@@ -4,6 +4,8 @@
 
 ## 성능 요약
 
+1360 kb, 284 ms
+
 ## 분류
 
 깊이 우선 탐색(depth-first search), 그래프 이론(graph theory), 그래프 탐색(graph traversal)
@@ -21,8 +23,6 @@
 오빠 할 수 있지 ?"
 
 자신의 밑천이 주연이에게 드러날까 두려운 윤호는 여러분들에게 도움을 요청했다. 윤호와 주연이 사이를 갈라놓을지 말지는 여러분들의 손에 달렸다.
-
-![image error](https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/userupload/Hibbah/201504/d9b29c14ef1d7d5d60b352a4b115913e.jpg)
 
 ## 입력
 
